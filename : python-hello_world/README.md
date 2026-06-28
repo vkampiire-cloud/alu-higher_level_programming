@@ -1,1 +1,0 @@
-python is eye opening 
